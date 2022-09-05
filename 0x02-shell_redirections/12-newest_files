@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head --lines=10
+ls -t | head --lines=10
